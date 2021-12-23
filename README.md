@@ -48,8 +48,8 @@
 
 <h3 align="left">🙈 公众号</h3>
 </br>
-<img align="left" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="200" width="500"></p>
-<img align="left" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="100" width="100"></p>
+<img align="left" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="170" width="500"></p>
+<img align="left" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="170" width="170"></p>
 
 
 
