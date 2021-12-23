@@ -38,11 +38,14 @@
 </p>
 
 ### 🙈 statistics
+<br />
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ezuy-Lee&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Amber·L's GitHub Stats" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezuy-Lee&theme=radical&layout=compact&hide=glsl,python,java,vue" />
 </p>
 
+### 公众号
+<br />
 <p>
 <img align="left" width="47%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
 <img align="right" width="47%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
