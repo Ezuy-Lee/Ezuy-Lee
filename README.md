@@ -29,14 +29,21 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Amber :: Visitor's Count" /></p>
+### 👀 Active Repo
+<br />
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
+</p>
 
-<h4 align="center">Top langs :tongue:</h4>
+### 🙈 statistics
+<p>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dumplingbao&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="Amber_L :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+### 🌱 Connect Me
+![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![简书](https://img.shields.io/badge/简书-diss带码-blue)](https://www.jianshu.com/u/9877ae06aeaa)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](https://dumplingbao.github.io/)[![Mail](https://img.shields.io/badge/-bmm_java@163.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bmm_java@163.com)
 
 <p>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
