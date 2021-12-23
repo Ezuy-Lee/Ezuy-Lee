@@ -47,8 +47,8 @@
 ### 公众号
 <br />
 <p>
-<img align="left" width="47%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
-<img align="right" width="47%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
+<img align="left" width="30%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
+<img align="right" width="50%" hight="30%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
 </p>
 
 
