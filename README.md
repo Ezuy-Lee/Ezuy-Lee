@@ -38,8 +38,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
+<p>
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
 <p align="right"><img src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
-
+</p>
 
 
