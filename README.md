@@ -36,7 +36,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-insects-demo&theme=radical" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-frontEnd&theme=radical" />
 </p>
-
+<br />
 ### 🙈 statistics
 <br />
 <p>
@@ -44,11 +44,12 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezuy-Lee&theme=radical&layout=compact&hide=glsl,python,java,vue" />
 </p>
 
+<br />
 ### 公众号
 <br />
 <p>
 <img align="left" width="30%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
-<img align="right" width="50%" hight="30%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
+<img align="right" width="50%" hight="25%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
 </p>
 
 
