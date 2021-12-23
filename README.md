@@ -30,14 +30,16 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Ezuy-Lee}/count.svg" alt="Amber :: Visitor's Count" /></p>
 
-### 👀 Active Repo
+
+<h2 align="left">👀 Active Repo</h2>
 <br />
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-insects-demo&theme=radical" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-frontEnd&theme=radical" />
 </p>
 <br />
-### 🙈 statistics
+
+<h2 align="left">🙈 statistics</h2>
 
 <br />
 <p>
