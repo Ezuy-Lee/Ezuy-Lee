@@ -1,6 +1,6 @@
-# Angel Jaime
+# 李雨泽
 
-<h2 align="center">About me</h2>
+<h2 align="center">Amber · L</h2>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
