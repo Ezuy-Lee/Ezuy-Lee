@@ -32,24 +32,22 @@
 
 
 <h2 align="left">👀 Active Repo</h2>
-<br />
+
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-insects-demo&theme=radical" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-frontEnd&theme=radical" />
 </p>
-<br />
 
 <h2 align="left">🙈 statistics</h2>
 
-<br />
 <p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ezuy-Lee&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Amber·L's GitHub Stats" />
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezuy-Lee&theme=radical&layout=compact&hide=glsl,python,java,vue" />
 </p>
 
 
-### 公众号
-<br />
+<h2 align="left">🙈 公众号</h2>
+
 <p>
 <img align="left" width="30%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
 <img align="right" width="50%" hight="25%" src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
