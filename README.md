@@ -42,9 +42,6 @@
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
 </p>
 
-### 🌱 Connect Me
-![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![简书](https://img.shields.io/badge/简书-diss带码-blue)](https://www.jianshu.com/u/9877ae06aeaa)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](https://dumplingbao.github.io/)[![Mail](https://img.shields.io/badge/-bmm_java@163.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bmm_java@163.com)
-
 <p>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/amber-logo-gree.png" alt="Synthwave" height="300" width="500"></p>
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Ezuy-Lee/RainzeDrawingBed/media/weixingzh-amber.jpg" alt="Synthwave" height="300" width="500"></p>
