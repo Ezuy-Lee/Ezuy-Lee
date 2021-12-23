@@ -28,18 +28,19 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Amber :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Ezuy-Lee}/count.svg" alt="Amber :: Visitor's Count" /></p>
+
 ### 👀 Active Repo
 <br />
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-insects-demo&theme=radical" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ezuy-Lee&repo=amber-frontEnd&theme=radical" />
 </p>
 
 ### 🙈 statistics
 <p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dumplingbao&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ezuy-Lee&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="Amber·L's GitHub Stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezuy-Lee&theme=radical&layout=compact&hide=glsl,python,java,vue" />
 </p>
 
 <p>
